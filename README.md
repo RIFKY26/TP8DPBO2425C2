@@ -75,3 +75,9 @@ Lecturer → Subjects : One to Many (Satu Dosen mengampu Banyak Mata Kuliah)
 - Response: Browser menerima halaman HTML yang sudah jadi dan menampilkannya kepada User.
 
 - Error Handling: Jika halaman atau aksi tidak ditemukan, sistem akan menampilkan pesan error sederhana tanpa menyebabkan aplikasi crash.
+
+# Dokumentasi
+
+
+https://github.com/user-attachments/assets/4b581f26-fb03-429f-b0fe-c65fa2eb040e
+
