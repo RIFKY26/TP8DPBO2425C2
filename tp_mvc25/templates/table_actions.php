@@ -1,0 +1,2 @@
+<a href="index.php?controller=<?= $controller ?>&action=edit&id=<?= $row['id'] ?>" class="btn btn-sm btn-warning">Edit</a>
+<a href="index.php?controller=<?= $controller ?>&action=delete&id=<?= $row['id'] ?>" class="btn btn-sm btn-danger" onclick="return confirm('Yakin hapus?')">Hapus</a>
